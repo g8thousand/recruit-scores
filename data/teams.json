@@ -1,0 +1,22 @@
+[
+  {
+    "id": "team1",
+    "name": "Red Raptors",
+    "slug": "red-raptors",
+    "players": [
+      { "id": "p1", "name": "John Doe", "score": 85 },
+      { "id": "p2", "name": "Jane Smith", "score": 90 },
+      { "id": "p3", "name": "Bob Johnson", "score": 78 }
+    ]
+  },
+  {
+    "id": "team2",
+    "name": "Blue Bears",
+    "slug": "blue-bears",
+    "players": [
+      { "id": "p4", "name": "Alice Cooper", "score": 88 },
+      { "id": "p5", "name": "Tom Hardy", "score": 92 },
+      { "id": "p6", "name": "Emma Stone", "score": 80 }
+    ]
+  }
+]
